@@ -1,3 +1,2 @@
-# Project1
-git hub learning state
-user define phase
+This is My First project to understand github process
+This page is to be updated
